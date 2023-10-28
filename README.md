@@ -37,7 +37,7 @@ I bring a diverse set of skills to the table, including:
 - Skillful in SQL and Postman
 - Competence in HTML, CSS, and Bootstrap
 - Proficiency in JavaScript and React
-- Familiarity with MongoDB, jQuery, and Node
+- Familiarity with MongoDB, jQuery, Node and AWS
 
 ## Employment History
 
