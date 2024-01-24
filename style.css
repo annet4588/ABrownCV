@@ -21,7 +21,11 @@ h5, h6 {
 }
 
 .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     margin: 20px;
+    
 }
 
 .card {
